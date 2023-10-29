@@ -1,4 +1,4 @@
-<h1 align="center">Eai👋! Meu nome é Bléqui, Sou um estudante da baixada santista 🗺️</h1>
+<h2 align="center">Eai👋! Meu nome é Bléqui, Sou um estudante da baixada santista 🗺️</h2>
 
 ###
 
