@@ -1,4 +1,4 @@
-<h2 align="center">Eai👋! Meu nome é Bléqui, Sou um estudante da baixada santista 🗺️</h2>
+<h2 align="center">Opa, bem vindo meu mano</h2>
 
 ###
 
@@ -39,9 +39,5 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/BlequiOFC/BlequiOFC/output/snake.svg" alt="Snake animation" />
 
 ###
