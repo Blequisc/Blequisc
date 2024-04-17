@@ -1,4 +1,4 @@
-<h2 align="center">Opa, bem vindo meu mano</h2>
+<h2 align="center">Opa, bem vindo meu mano 🎶</h2>
 
 ###
 
