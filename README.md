@@ -1,6 +1,4 @@
-<img align="right" height="183" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif"  />
-
-###
+<br clear="both">
 
 <div align="center">
   <a href="https://twitter.com/Blequi_" target="_blank">
@@ -13,7 +11,15 @@
 
 ###
 
+<br clear="both">
+
 <h1 align="center">hello, what's up?👋</h1>
+
+###
+
+<br clear="both">
+
+<img align="right" height="183" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif"  />
 
 ###
 
