@@ -3,11 +3,11 @@
 
 ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil")
 
-<i style="color: #808080;">"Bléqui" é meu pseudônimo usado na internet por escolha de privacidade sobre minhas informações pessoais, meu nome já não é mais completamente privado mas ainda sim prefiro manter meu apelido e foto de perfil de desenho alterados aqui no github. Isso não interfere com meu profissionalismo ou com minhas habilidades :)</i>
+<i style="color: #505050;">"Bléqui" é meu pseudônimo usado na internet por escolha de privacidade sobre minhas informações pessoais, meu nome já não é mais completamente privado mas ainda sim prefiro manter meu apelido e foto de perfil de desenho alterados aqui no github. Isso não interfere com meu profissionalismo ou com minhas habilidades :)</i>
 
 ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States")
 
-<i style="color: #808080;">"Bléqui" is my pseudonym that i use on internet for reasons that i chose regarding my privacy about my personal informations, my name is not completely private anymore but yet i do prefer to keep my nickname and cartoon profile picture altered here on github. This does not interfere with my professionalism nor my habilities :)</i>
+<i style="color: #505050;">"Bléqui" is my pseudonym that i use on internet for reasons that i chose regarding my privacy about my personal informations, my name is not completely private anymore but yet i do prefer to keep my nickname and cartoon profile picture altered here on github. This does not interfere with my professionalism nor my habilities :)</i>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Blequisc.Blequisc&right_color=purple"  />
