@@ -52,9 +52,7 @@
 
 ---
 <div align=center>
-💬 Sinta-se livre para me chamar se quiser colaborar ou apenas dizer oi! <br> 
-📫<a href="mailto:gustavopl.contato@gmail.com" target="_blank">Email</a> ou <a href="https://discordapp.com/users/311590188851789835" target="_blank">Discord</a>📪
-<br><br>
-💬 Feel free to reach out if you want to collaborate or just say hi! <br> 
-📫<a href="mailto:gustavopl.contato@gmail.com" target="_blank">Email</a> or <a href="https://discordapp.com/users/311590188851789835" target="_blank">Discord</a>📪
+💬![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Sinta-se livre para me chamar se quiser colaborar ou apenas dizer oi! <br> 
+💬![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") Feel free to reach out if you want to collaborate or just say hi! <br> 
+📫<a href="mailto:gustavopl.contato@gmail.com" target="_blank">Email</a> || <a href="https://discordapp.com/users/311590188851789835" target="_blank">Discord</a>📪
 </div>
