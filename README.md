@@ -53,8 +53,8 @@
 ---
 <div align=center>
 💬 Sinta-se livre para me chamar se quiser colaborar ou apenas dizer oi! <br> 
-[E-mail](gustavopl.contato@gmail.com) ou [Discord](https://discordapp.com/users/311590188851789835)
+<a href="gustavopl.contato@gmail.com">Email</a> ou <a href="https://discordapp.com/users/311590188851789835">Discord</a>
 <br><br>
 💬 Feel free to reach out if you want to collaborate or just say hi! <br> 
-[E-mail](gustavopl.contato@gmail.com) or [Discord](https://discordapp.com/users/311590188851789835)
+<a href="gustavopl.contato@gmail.com">Email</a> or <a href="https://discordapp.com/users/311590188851789835">Discord</a>
 </div>
