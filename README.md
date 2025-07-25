@@ -8,12 +8,11 @@
 ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States")
 
 <i style="color: #505050;">"Bléqui" is my pseudonym that i use on internet for reasons that i chose regarding my privacy about my personal informations, my name is not completely private anymore but yet i do prefer to keep my nickname and cartoon profile picture altered here on github. This does not interfere with my professionalism nor my habilities :)</i>
-
+<br><br>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Blequisc.Blequisc&right_color=purple"  />
 </div>
 
-<br><br>
 ###
 
 <div align="center">
