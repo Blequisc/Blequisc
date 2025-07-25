@@ -1,13 +1,13 @@
 
-# Hello README!
+# 👋 Hello README!
 
 ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil")
 
-<i style="color: #505050;">"Bléqui" é meu pseudônimo na internet, escolhido por questões de privacidade em relação às minhas informações pessoais. Embora meu nome já não seja totalmente privado, ainda prefiro manter meu apelido e uma imagem de perfil em estilo desenho aqui no GitHub. Isso não afeta meu profissionalismo nem minhas habilidades. :)</i>
+<i style="color: #505050;">"Bléqui" é meu pseudônimo na internet, escolhido por questões de privacidade em relação às minhas informações pessoais. Embora meu nome já não seja totalmente privado, ainda prefiro manter meu apelido e uma imagem de perfil ilustrada aqui no GitHub. Isso não afeta meu profissionalismo nem minhas habilidades. :)</i>
 
 ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States")
 
-<i style="color: #505050;">"Bléqui" is the pseudonym I use online, chosen for privacy reasons regarding my personal information. Although my real name is no longer completely private, I still prefer to keep my nickname and cartoon-style profile picture here on GitHub. This does not affect my professionalism or my skills. :)</i>
+<i style="color: #505050;">"Bléqui" is the pseudonym I use online, chosen for privacy reasons regarding my personal information. Although my real name is no longer completely private, I still prefer to keep my nickname and illustrated profile picture here on GitHub. This does not affect my professionalism or my skills. :)</i>
 <br><br>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Blequisc.Blequisc&right_color=purple"  />
@@ -49,3 +49,10 @@
 </div>
 
 ###
+
+---
+💬 Sinta-se livre para me chamar se quiser colaborar ou apenas dizer oi!
+[E-mail](gustavopl.contato@gmail.com) ou [Discord](https://discordapp.com/users/311590188851789835)
+
+💬 Feel free to reach out if you want to collaborate or just say hi!
+[E-mail](gustavopl.contato@gmail.com) or [Discord](https://discordapp.com/users/311590188851789835)
