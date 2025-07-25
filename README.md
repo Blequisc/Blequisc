@@ -2,11 +2,9 @@
 # 👋 Hello README!
 
 ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil")
-
 <i style="color: #505050;">"Bléqui" é meu pseudônimo na internet, escolhido por questões de privacidade em relação às minhas informações pessoais. Embora meu nome já não seja totalmente privado, ainda prefiro manter meu apelido e uma imagem de perfil ilustrada aqui no GitHub. Isso não afeta meu profissionalismo nem minhas habilidades. :)</i>
 
 ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States")
-
 <i style="color: #505050;">"Bléqui" is the pseudonym I use online, chosen for privacy reasons regarding my personal information. Although my real name is no longer completely private, I still prefer to keep my nickname and illustrated profile picture here on GitHub. This does not affect my professionalism or my skills. :)</i>
 <br><br>
 <div align="center">
